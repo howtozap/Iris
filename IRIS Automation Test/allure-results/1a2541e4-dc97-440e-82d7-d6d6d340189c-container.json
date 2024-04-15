@@ -1,0 +1,1 @@
+{"uuid":"1a2541e4-dc97-440e-82d7-d6d6d340189c","name":"Tests.CreditDecisionStage","children":["36f4da77-e6f1-47b5-ac93-40fdda634967"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706428305866,"stop":1706428315687}],"afters":[],"start":1706428042221,"stop":1706428803948}

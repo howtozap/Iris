@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T18:12:15 IST" name="Default suite" finished-at="2022-06-10T18:12:19 IST" duration-ms="4473">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T18:12:15 IST" name="Default test" finished-at="2022-06-10T18:12:19 IST" duration-ms="4473">
+      <class name="Tests.PodiumRead">
+        <test-method is-config="true" signature="readprocess()[pri:0, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:15 IST" name="readprocess" finished-at="2022-06-10T18:12:19 IST" duration-ms="4423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readprocess -->
+        <test-method signature="vehicleprice()[pri:1, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:19 IST" name="vehicleprice" finished-at="2022-06-10T18:12:19 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleprice -->
+        <test-method signature="totalfinaceamount()[pri:2, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:19 IST" name="totalfinaceamount" finished-at="2022-06-10T18:12:19 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalfinaceamount -->
+        <test-method signature="Term()[pri:3, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:19 IST" name="Term" finished-at="2022-06-10T18:12:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Term -->
+        <test-method signature="Deposit()[pri:4, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:19 IST" name="Deposit" finished-at="2022-06-10T18:12:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deposit -->
+        <test-method signature="Extras()[pri:5, instance:Tests.PodiumRead@1a4927d6]" started-at="2022-06-10T18:12:19 IST" name="Extras" finished-at="2022-06-10T18:12:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Extras -->
+      </class> <!-- Tests.PodiumRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

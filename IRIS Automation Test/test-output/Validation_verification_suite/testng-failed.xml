@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Validation_verification_suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Optima Stage(failed)">
+    <classes>
+      <class name="Tests.VerificationStage">
+        <methods>
+          <include name="kycOvverride"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="setup"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Tests.VerificationStage -->
+    </classes>
+  </test> <!-- Optima Stage(failed) -->
+</suite> <!-- Failed suite [Validation_verification_suite] -->

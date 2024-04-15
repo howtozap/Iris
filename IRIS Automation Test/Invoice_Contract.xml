@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="Invoice_Contract_suite">
+
+<test name="Optima Stage">
+	 <classes>
+	        <class name="Tests.InvoiceScreen"/> 
+	     <class name="Tests.FirstChecker"/>
+	     <class name="Tests.SecondChecker"/>
+	 </classes>
+   </test>
+</suite>

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<Message>
+  <response>
+    <information>
+      <version>v0.0.55_20220517</version>
+      <message>SA Taxi Consumer Vehicle Decision Service - Category B - LTV Tables (roll back)</message>
+      <executionTime>6 milliseconds</executionTime>
+      <decisionTrace />
+    </information>
+    <decision>
+      <applicationId>30224</applicationId>
+      <routing>APPROVE</routing>
+      <eligible>APPROVE</eligible>
+      <affordability>APPROVE</affordability>
+      <creditStrategy>APPROVE</creditStrategy>
+      <reasonCodes />
+      <applicationRiskDecisions />
+      <riskGrade>7</riskGrade>
+      <scoreSAT>670</scoreSAT>
+      <offerDecision>
+        <consumerBuyBack>NO</consumerBuyBack>
+        <offerId>0</offerId>
+        <rate>0.1345</rate>
+        <term>48</term>
+        <instalmentAmount>0</instalmentAmount>
+        <offerDepositAmount>19412.5</offerDepositAmount>
+        <interestRate>0.1345</interestRate>
+        <isInsuranceSelected>false</isInsuranceSelected>
+        <insurancePremium>0</insurancePremium>
+        <insuranceProRata>0</insuranceProRata>
+        <cl_MonthlyPremium>0</cl_MonthlyPremium>
+        <cl_ProRata>0</cl_ProRata>
+        <maxExposure>0</maxExposure>
+        <totalExtras>15140</totalExtras>
+        <monthlyVehicleInstalment>1680.9837022288932</monthlyVehicleInstalment>
+        <initiationFees>1207.5</initiationFees>
+        <monthlyAdminFee>69</monthlyAdminFee>
+        <totalInstalmentAmount>1749.9837022288932</totalInstalmentAmount>
+        <principalDebt>61935</principalDebt>
+        <residualAmount>0</residualAmount>
+        <residualPercentage>0</residualPercentage>
+        <retailValuePrice>65000</retailValuePrice>
+        <sellingPrice>65000</sellingPrice>
+        <vatableExtras>13290</vatableExtras>
+        <nonVatableExtras>1850</nonVatableExtras>
+        <proRataInterest>205.40360958904108</proRataInterest>
+        <lendingSpreadPercentage>0.052</lendingSpreadPercentage>
+        <totalFinancedAmount>62140.403609589041</totalFinancedAmount>
+        <totalMonthlyIncome>28000</totalMonthlyIncome>
+        <undrawnAmount>249960</undrawnAmount>
+        <disposableIncome>11331</disposableIncome>
+        <commissionHairCutPercentage>0</commissionHairCutPercentage>
+        <creditConversionFactor>0</creditConversionFactor>
+        <underDeclaredCreditExpense>9269</underDeclaredCreditExpense>
+        <totalMonthlyExpense>16669</totalMonthlyExpense>
+        <ncaMinimumExpense>3740.9791800000003</ncaMinimumExpense>
+        <ncaMaximumIncomeBand>50000</ncaMaximumIncomeBand>
+        <ncaMinimumIncomeBand>25000.01</ncaMinimumIncomeBand>
+        <ncaMinimumMonthlyFactor>2855.38</ncaMinimumMonthlyFactor>
+        <ncaFixedFactorPercentage>0.082</ncaFixedFactorPercentage>
+        <exposureMultiple>1.25</exposureMultiple>
+        <productType>INSTALMENT SALE</productType>
+        <underDeclaredLivingExpenses>0</underDeclaredLivingExpenses>
+        <repaymentToIncome>0.048882226319242827</repaymentToIncome>
+        <maxAllowableResidualPercentage>0.3</maxAllowableResidualPercentage>
+        <conditionalOfferIndicator>0</conditionalOfferIndicator>
+        <conditionalOfferMessage>No Conditional Offer</conditionalOfferMessage>
+        <maxApprovalAmount>417000</maxApprovalAmount>
+        <requiredDepositAmount>0</requiredDepositAmount>
+        <dealerIncentiveCommission>
+          <dealerIncentiveCommAmount>0</dealerIncentiveCommAmount>
+          <dealerIncentiveCommPercentage>0</dealerIncentiveCommPercentage>
+          <dealerIncentiveCommDifference>0</dealerIncentiveCommDifference>
+          <dealerIncentiveUnits>0</dealerIncentiveUnits>
+          <dealerIncentiveRateDifference>0</dealerIncentiveRateDifference>
+          <dealerIncentiveBaseCommAmount>0</dealerIncentiveBaseCommAmount>
+          <totalDealerCommision>2477.4000000000005</totalDealerCommision>
+          <rpThousand>40</rpThousand>
+          <infimum>2.25</infimum>
+          <slopeChange>5.2</slopeChange>
+          <supremum>7.25</supremum>
+          <inf_Multiple>0.05</inf_Multiple>
+          <sc_Multiple>1</sc_Multiple>
+          <sup_Multiple>1.3</sup_Multiple>
+          <inf_CO_Rate>3.2</inf_CO_Rate>
+          <inf_CO_RpT>2.25</inf_CO_RpT>
+          <sup_CO_Rate>7.25</sup_CO_Rate>
+          <sup_CO_RpT>52</sup_CO_RpT>
+          <approvedRate>5.2</approvedRate>
+          <ar_Tolerance>-1</ar_Tolerance>
+          <table1_RB>8</table1_RB>
+          <thinFile_Multiple>1</thinFile_Multiple>
+          <residual_Multiple>1</residual_Multiple>
+          <submittedRate>13.450000000000001</submittedRate>
+          <submittedMargin>5.2000000000000011</submittedMargin>
+          <outputRate>5.2000000000000011</outputRate>
+          <outputDIC>40.000000000000007</outputDIC>
+          <client_Rate>13.450000000000001</client_Rate>
+        </dealerIncentiveCommission>
+      </offerDecision>
+    </decision>
+  </response>
+</Message>

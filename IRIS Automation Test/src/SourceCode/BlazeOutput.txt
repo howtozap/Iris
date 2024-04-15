@@ -1,0 +1,39 @@
+Date of Assessment: 2022-04-04
+GBB Price: 0.0
+Vehicle Price: 180000.0
+Discount: 0.0
+Total Trade In: 0.0
+Requested Rate: 0.155
+Requested Term: 48.0
+Requested Deposit Amount: 50000.0
+Vatable Extras:10173.85
+Non Vatable Extras: 0.0
+First Instalment Date: 2022-05-10
+First Instalment Date: 2022-05-10
+Initiation Fee: 1207.5
+Monthly AdminFee: 69.0
+Monthly Vehicle Instalment: 3980.792328146331
+Monthly Vehicle Instalment: 4049.792328146331
+Principal Debt: 141381.35
+Total Financed Amount: 141741.58193287672
+--------------------------------------------------------------------------------------------------------------------------------------
+Field Name                                                 Actual Value           Calculated Value       Are Values Matching
+--------------------------------------------------------------------------------------------------------------------------------------
+PrincipleDebt                                                    141381.35                 141381.35                  YES
+MonthlyPrincipleDebtInstalment                           3980.792328146331         3980.792328146331                  YES
+TotalFinancedAmount                          141741.58193287672        141741.58193287672                  YES
+TotalInstalmentAmount                           4049.792328146331         4049.792328146331                  YES
+PASSED: calculation
+PASSED: readresponse
+
+===============================================
+    Default test
+    Tests run: 2, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 2, Passes: 2, Failures: 0, Skips: 0
+===============================================
+

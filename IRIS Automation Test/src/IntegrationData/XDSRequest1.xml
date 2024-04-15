@@ -1,0 +1,26 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xds="http://www.web.xds.co.za/XDSConnectWS">
+	<soapenv:Header/>   
+	<soapenv:Body>
+      <xds:ConnectConsumerMatch>
+         <!--Optional:-->
+         <xds:ConnectTicket>B07F53B0ADD8E2F83EBC3F0375A7470B956FD4191F25EA47FBF83B76427D86D40EA590F9CDB6FBA4ABAB037091482E5FF538F7765DAC27F9ECE2EB5B68EC797C0567469321B3A418CCCF07A83DC7572388963EB9081AE0D37A7D26EFEC8216DF872C8985BFEEC79ADE8D50C81F61F8DECE38D6B4</xds:ConnectTicket>
+         <!--Optional:-->
+         <xds:EnquiryReason></xds:EnquiryReason>
+         <xds:ProductId>2</xds:ProductId>
+         <!--Optional:-->
+         <xds:IdNumber>5608020616087</xds:IdNumber>
+         <!--Optional:-->
+         <xds:PassportNo></xds:PassportNo>
+         <!--Optional:-->
+         <xds:FirstName></xds:FirstName>
+         <!--Optional:-->
+         <xds:Surname></xds:Surname>
+         <!--Optional:-->
+         <xds:BirthDate></xds:BirthDate>
+         <!--Optional:-->
+         <xds:YourReference></xds:YourReference>
+         <!--Optional:-->
+         <xds:VoucherCode></xds:VoucherCode>
+      </xds:ConnectConsumerMatch>
+   </soapenv:Body>
+</soapenv:Envelope>

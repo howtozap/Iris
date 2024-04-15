@@ -1,0 +1,463 @@
+<Operation>
+    <message topic="Quote To Tial Quoting">
+        <Data>
+            <Insurers>
+                <Insurer id="17">
+                    <Description>SATaxi</Description>
+                    <ProcessQuote>true</ProcessQuote>
+                    <RatingCode1>Financed</RatingCode1>
+                    <RatingCode2 />
+                    <RatingCode3 />
+                    <RatingCode4 />
+                    <RatingCode5 />
+                    <RatingCode6 />
+                    <RatingProductID />
+                    <STRIDEServiceName />
+                    <STRIDEBussinessName />
+                    <ACORDVersion />
+                    <STRIDEPublicCertificate />
+                </Insurer>
+            </Insurers>
+            <ClientData>
+                <ClientType id="1" />
+                <ClientNumbers>
+                    <ClientNo>0</ClientNo>
+                    <ClientKey>0</ClientKey>
+                </ClientNumbers>
+                <ClientStatus>
+                    <VIP>false</VIP>
+                    <VIPReason />
+                    <Blacklisted>false</Blacklisted>
+                    <ViewDocs>false</ViewDocs>
+                    <Status>1</Status>
+                    <BehaviorStatus />
+                </ClientStatus>
+                <FirstName>SERAME </FirstName>
+                <Surname>MAPHOTO</Surname>
+                <Initials>SM</Initials>
+                <Title Titleid="1">Mr</Title>
+                <Gender>M</Gender>
+                <ClientIDNo>5809265419084</ClientIDNo>
+                <IdendityTypeCode>1</IdendityTypeCode>
+                <CompanyName>Default - None</CompanyName>
+                <NatureOfBus>Default - None</NatureOfBus>
+                <Contact>Default - None</Contact>
+                <Language id="1">English</Language>
+                <CompanyRegNo>Default - None</CompanyRegNo>
+                <Addresses>
+                    <Address id="0">
+                        <Postal1 />
+                        <Postal2 />
+                        <Postal3>Midrand</Postal3>
+                        <Province>Gauteng</Province>
+                    </Address>
+                    <Address id="0">
+                        <Postal1>115 George street</Postal1>
+                        <Postal2 />
+                        <Postal3>Midrand</Postal3>
+                        <Province>Gauteng</Province>
+                    </Address>
+                    <CoiAddress>
+                        <RiskAddress AreaId="1391" id="1">
+                            <RiskAddLine1>115 George street</RiskAddLine1>
+                            <RiskAddLine2 />
+                            <RiskAddLine3>Midrand</RiskAddLine3>
+                            <RiskAddLine4>0</RiskAddLine4>
+                            <RiskPostCode>1682</RiskPostCode>
+                            <RiskStreetCode>0000</RiskStreetCode>
+                            <Province>Gauteng</Province>
+                            <StreetNum>0</StreetNum>
+                            <AddressLocation>1</AddressLocation>
+                            <CountryCode>ZA</CountryCode>
+                            <CountryName>South Africa</CountryName>
+                        </RiskAddress>
+                        <RiskAddress AreaId="58537" id="2">
+                            <RiskAddLine1>115 George street</RiskAddLine1>
+                            <RiskAddLine2 />
+                            <RiskAddLine3>Midrand</RiskAddLine3>
+                            <RiskAddLine4>0</RiskAddLine4>
+                            <RiskPostCode>1682</RiskPostCode>
+                            <RiskStreetCode>0000</RiskStreetCode>
+                            <Province>Gauteng</Province>
+                            <StreetNum>0</StreetNum>
+                            <AddressLocation>1</AddressLocation>
+                            <CountryCode>ZA</CountryCode>
+                            <CountryName>South Africa</CountryName>
+                        </RiskAddress>
+                        <RiskAddress AreaId="58597" id="3">
+                            <RiskAddLine1>115 George street</RiskAddLine1>
+                            <RiskAddLine2 />
+                            <RiskAddLine3>Midrand</RiskAddLine3>
+                            <RiskAddLine4>0</RiskAddLine4>
+                            <RiskPostCode>1682</RiskPostCode>
+                            <RiskStreetCode>0000</RiskStreetCode>
+                            <Province>Gauteng</Province>
+                            <StreetNum>0</StreetNum>
+                            <AddressLocation>1</AddressLocation>
+                            <CountryCode>ZA</CountryCode>
+                            <CountryName>South Africa</CountryName>
+                        </RiskAddress>
+                    </CoiAddress>
+                </Addresses>
+                <ContactDetails>
+                    <TelW>5873358</TelW>
+                    <TelF>Default - None</TelF>
+                    <TelH />
+                    <CellNo>0827723949</CellNo>
+                    <Email />
+                </ContactDetails>
+                <DOB>1958-09-26</DOB>
+                <Age>63</Age>
+                <Pensioner>0</Pensioner>
+                <Retrenchment>false</Retrenchment>
+                <PreviouslyInsured>true</PreviouslyInsured>
+                <MaritalStatus>5</MaritalStatus>
+                <VATDetails>
+                    <VATVendor>false</VATVendor>
+                    <VATNo>Unknown</VATNo>
+                </VATDetails>
+                <EconomicallyActive>0</EconomicallyActive>
+                <ThirdYearDegree>0</ThirdYearDegree>
+                <ITCScore>none</ITCScore>
+                <GainFullyEmployed>none</GainFullyEmployed>
+                <OccupationDesc>Taxi Driver</OccupationDesc>
+                <IsFarmer>false</IsFarmer>
+                <SelfEmployed>true</SelfEmployed>
+                <Unemployed>false</Unemployed>
+                <CivilJudgement>false</CivilJudgement>
+                <ConvictedOfCrime>false</ConvictedOfCrime>
+                <CliamsAmountLastTreeYears>0</CliamsAmountLastTreeYears>
+                <InsuranceDeclined>0</InsuranceDeclined>
+                <Last12MthsNumClaims>0</Last12MthsNumClaims>
+                <Last12To24MthsNumClaims>0</Last12To24MthsNumClaims>
+                <Last24To36MthsNumClaims>0</Last24To36MthsNumClaims>
+                <EmployedSince>0001-01-01</EmployedSince>
+                <ITCConsent>true</ITCConsent>
+                <EmpericaScore>616</EmpericaScore>
+                <RiskGrade>6</RiskGrade>
+            </ClientData>
+            <PolicyData>
+                <Policies>
+                    <Policy UniqueID="SAT160276" GUID="6b7b4aa1-7a84-40dd-aa77-94c92c809b18">
+                        <PolicyNumber>0</PolicyNumber>
+                        <DisplayPolicyNo>SAT160276</DisplayPolicyNo>
+                        <GeneratedDate>2021-09-27</GeneratedDate>
+                        <Bouquet>2</Bouquet>
+                        <Product>3</Product>
+                        <InsurerDetail InsurerId="87">
+                            <InsurerName>Guardrisk</InsurerName>
+                        </InsurerDetail>
+                        <BrokerDetail BrokerId="029063">
+                            <BrokerName>SA TAXI PROTECT </BrokerName>
+                        </BrokerDetail>
+                        <PaymentMethod>3</PaymentMethod>
+                        <DebitOrderDay>1</DebitOrderDay>
+                        <Financed>0</Financed>
+                        <MECollectCurrentMonth>0</MECollectCurrentMonth>
+                        <BankDetailsNeeded>false</BankDetailsNeeded>
+                        <FinancialCurrency>1</FinancialCurrency>
+                        <ReviewFrequency>2</ReviewFrequency>
+                        <PaymentFrequency>1</PaymentFrequency>
+                        <InceptionDate>2021-09-27</InceptionDate>
+                        <RenewalDate>2022-09-27</RenewalDate>
+                        <LastRenewalDate>2021-09-27</LastRenewalDate>
+                        <EndDate>2022-09-27</EndDate>
+                        <RateDate>2021-09-27</RateDate>
+                        <PolicyStatus>1</PolicyStatus>
+                        <PolicyType>1</PolicyType>
+                        <PolicyDiscountId>0</PolicyDiscountId>
+                        <FileNo />
+                        <BrokerRefNo>160276</BrokerRefNo>
+                        <StatusDesc>Quote</StatusDesc>
+                        <PolicyCurrency>1</PolicyCurrency>
+                        <Qualitycontrol>false</Qualitycontrol>
+                        <Balance>0</Balance>
+                        <SasriaAnnual>false</SasriaAnnual>
+                        <QuoteAuthorisingEntityId>0</QuoteAuthorisingEntityId>
+                        <BankDetails>
+                            <AccountNo />
+                            <AccountType />
+                            <BankName />
+                            <BranchName />
+                            <BranchCode>Default - None</BranchCode>
+                            <AccountHolder>Default - None</AccountHolder>
+                        </BankDetails>
+                        <Fees>
+                            <Fee id="12">0</Fee>
+                            <FeeDetails id="12">
+                                <FeeDesc>Broker Fee</FeeDesc>
+                                <FeeAmt>0</FeeAmt>
+                            </FeeDetails>
+                        </Fees>
+                        <Vehicles>
+                            <Vehicle id="1" CoiSeqNo="001" CoiKey="001" ActiveItem="true" ItemCount="1">
+                                <COI>1</COI>
+                                <RateDate>2021-09-27</RateDate>
+                                <InceptionDate>2021-09-27</InceptionDate>
+                                <OriginalInceptionDate>2021-09-27</OriginalInceptionDate>
+                                <EndDate>2022-09-27</EndDate>
+                                <MAKEID>Default - None</MAKEID>
+                                <MAKE>TOYOTA</MAKE>
+                                <MODEL>TOYOTA QUANTUM/HIACE 2.5 D-4D SESFIKILE 16s</MODEL>
+                                <MMCODE>60058407</MMCODE>
+                                <Year>2020</Year>
+                                <EngineNo />
+                                <ChassisNo />
+                                <VINNo />
+                                <RegOwner>SM MAPHOTO</RegOwner>
+                                <NCB>0</NCB>
+                                <Colour>No Data</Colour>
+                                <SumInsured>352000.00</SumInsured>
+                                <CurrentPremium>0</CurrentPremium>
+                                <SasriaPremium>0</SasriaPremium>
+                                <VATAmount>0</VATAmount>
+                                <CommissionAmount>0</CommissionAmount>
+                                <CommissionPercentage>0</CommissionPercentage>
+                                <CommissionVATAmount>0</CommissionVATAmount>
+                                <DiscountPercentage>0</DiscountPercentage>
+                                <SASRIA>YES</SASRIA>
+                                <Cover>6</Cover>
+                                <Usage>6</Usage>
+                                <AvgKmTravelled>0</AvgKmTravelled>
+                                <Unsupported>0</Unsupported>
+                                <RegNumber>TBA</RegNumber>
+                                <Mass>0</Mass>
+                                <PTW>0</PTW>
+                                <VehicleAge>1</VehicleAge>
+                                <VehicleAlteredIndicator>false</VehicleAlteredIndicator>
+                                <ExistingUnrepairedDamageIndicator>false</ExistingUnrepairedDamageIndicator>
+                                <CurrentlyInsured>false</CurrentlyInsured>
+                                <CubicCapacity>0</CubicCapacity>
+                                <Type>17</Type>
+                                <MarketValue>0</MarketValue>
+                                <RetialValue>352000.00</RetialValue>
+                                <TradeValue>0</TradeValue>
+                                <PurchaseStatus>1</PurchaseStatus>
+                                <MemberOfDot>Yes</MemberOfDot>
+                                <SubjectiveAdjustmentAmt>0</SubjectiveAdjustmentAmt>
+                                <MarketAdjustmentAmt>0</MarketAdjustmentAmt>
+                                <TheftGroup>0</TheftGroup>
+                                <AccidentGroup>0</AccidentGroup>
+                                <VehicleClaimHistory>
+                                    <NormalRepairableClaimL6M>0</NormalRepairableClaimL6M>
+                                    <NormalRepairableClaimL12M>0</NormalRepairableClaimL12M>
+                                    <GlassClaimL6M>0</GlassClaimL6M>
+                                    <GlassClaimL12M>0</GlassClaimL12M>
+                                    <PaymentPercL3M>0</PaymentPercL3M>
+                                    <PaymentPercL6M>0</PaymentPercL6M>
+                                    <MaxCDL6M>0</MaxCDL6M>
+                                </VehicleClaimHistory>
+                                <InitialAdvanceWithVat>1</InitialAdvanceWithVat>
+                                <Drivers>
+                                    <Driver id="1">
+                                        <Initials>SM</Initials>
+                                        <Name>SERAME </Name>
+                                        <Surname>MAPHOTO</Surname>
+                                        <Gender>M</Gender>
+                                        <Title Titleid="1">Mr</Title>
+                                        <DriverID>5809265419084</DriverID>
+                                        <RegularDriver>true</RegularDriver>
+                                        <NominatedDriver>false</NominatedDriver>
+                                        <CompanyDriver>false</CompanyDriver>
+                                        <DOB>1958-09-26</DOB>
+                                        <Age>63</Age>
+                                        <LicenceCode>B</LicenceCode>
+                                        <YearsLicenceHeld>0</YearsLicenceHeld>
+                                        <Type>0</Type>
+                                        <AdvancedDriver>0</AdvancedDriver>
+                                        <DriverCourseId>0</DriverCourseId>
+                                        <DateObtained>2021-09-27</DateObtained>
+                                        <MaritalStatus>0</MaritalStatus>
+                                        <Occupation>0</Occupation>
+                                        <DriverRestrictions>0</DriverRestrictions>
+                                        <RelationShip>0</RelationShip>
+                                        <PreviouslyInsured>false</PreviouslyInsured>
+                                        <UsualDriveOffence>false</UsualDriveOffence>
+                                        <HomeAddressId>0</HomeAddressId>
+                                        <WorkAddressId>0</WorkAddressId>
+                                        <ClaimsLast4YearsAccident>0</ClaimsLast4YearsAccident>
+                                        <ClaimsLast4YearsOther>0</ClaimsLast4YearsOther>
+                                        <ClaimsLast4YearsTheft>0</ClaimsLast4YearsTheft>
+                                        <ClaimsLast4YearsWindscreen>0</ClaimsLast4YearsWindscreen>
+                                        <PreviousInsuredDurationYears>0</PreviousInsuredDurationYears>
+                                        <DriverEducation>0</DriverEducation>
+                                        <NoClaimTwoYear>0</NoClaimTwoYear>
+                                    </Driver>
+                                </Drivers>
+                                <RegOwners>
+                                    <RegOwnerDetail id="1">
+                                        <Initials>SM</Initials>
+                                        <Name>SERAME </Name>
+                                        <Surname>MAPHOTO</Surname>
+                                        <Gender>M</Gender>
+                                        <ClientIDNo>5809265419084</ClientIDNo>
+                                        <Title Titleid="1">Mr</Title>
+                                        <DOB>1958-09-26</DOB>
+                                        <Occupation>0</Occupation>
+                                        <Age>63</Age>
+                                        <RelationShip>0</RelationShip>
+                                    </RegOwnerDetail>
+                                </RegOwners>
+                                <CoiAddress>
+                                    <RiskAddress AreaId="58597" id="1">
+                                        <AmendedDate>2013-08-22</AmendedDate>
+                                        <RiskAddLine1>115 George street</RiskAddLine1>
+                                        <RiskAddLine2 />
+                                        <RiskAddLine3>Midrand</RiskAddLine3>
+                                        <RiskAddLine4>0</RiskAddLine4>
+                                        <RiskPostCode>1682</RiskPostCode>
+                                        <RiskStreetCode>0000</RiskStreetCode>
+                                        <Province>Gauteng</Province>
+                                        <StreetNum>0</StreetNum>
+                                        <AddressLocation>0</AddressLocation>
+                                        <CountryCode>ZA</CountryCode>
+                                        <CountryName>South Africa</CountryName>
+                                    </RiskAddress>
+                                    <RiskAddress AreaId="58597" id="2">
+                                        <AmendedDate>2013-08-22</AmendedDate>
+                                        <RiskAddLine1>115 George street</RiskAddLine1>
+                                        <RiskAddLine2 />
+                                        <RiskAddLine3>Midrand</RiskAddLine3>
+                                        <RiskAddLine4>0</RiskAddLine4>
+                                        <RiskPostCode>1682</RiskPostCode>
+                                        <RiskStreetCode>0000</RiskStreetCode>
+                                        <Province>Gauteng</Province>
+                                        <StreetNum>0</StreetNum>
+                                        <AddressLocation>0</AddressLocation>
+                                        <CountryCode>ZA</CountryCode>
+                                        <CountryName>South Africa</CountryName>
+                                    </RiskAddress>
+                                </CoiAddress>
+                                <Accessories />
+                                <Extensions>
+                                    <Extension id="146">
+                                        <SumInsured>0</SumInsured>
+                                        <Premium>0</Premium>
+                                        <Type>0</Type>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                        <DataTo>2021-09-27</DataTo>
+                                    </Extension>
+                                    <Extension id="139">
+                                        <SumInsured>0</SumInsured>
+                                        <Premium>0</Premium>
+                                        <Type>0</Type>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                        <DataTo>2021-09-27</DataTo>
+                                    </Extension>
+                                    <Extension id="148">
+                                        <SumInsured>0</SumInsured>
+                                        <Premium>0</Premium>
+                                        <Type>0</Type>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                        <DataTo>2021-09-27</DataTo>
+                                    </Extension>
+                                    <Extension id="12">
+                                        <SumInsured>0</SumInsured>
+                                        <Premium>0</Premium>
+                                        <Type>0</Type>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                        <DataTo>2021-09-27</DataTo>
+                                    </Extension>
+                                </Extensions>
+                                <Deductibles>
+                                    <Deductible>
+                                        <DeductibleId>1</DeductibleId>
+                                        <Amount>6000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>2</DeductibleId>
+                                        <Amount>4000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>3</DeductibleId>
+                                        <Amount>2000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>4</DeductibleId>
+                                        <Amount>2000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>5</DeductibleId>
+                                        <Amount>2500.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>6</DeductibleId>
+                                        <Amount>4000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>7</DeductibleId>
+                                        <Amount>1000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>8</DeductibleId>
+                                        <Amount>300.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>10</DeductibleId>
+                                        <Amount>1000.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>9</DeductibleId>
+                                        <Amount>1500.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                    <Deductible>
+                                        <DeductibleId>11</DeductibleId>
+                                        <Amount>2500.00</Amount>
+                                        <Percentage>0</Percentage>
+                                        <DataFrom>2021-09-27</DataFrom>
+                                    </Deductible>
+                                </Deductibles>
+                                <Parking>
+                                    <DayParking>3</DayParking>
+                                    <NightParking>3</NightParking>
+                                </Parking>
+                                <HPDetails>
+                                    <CompanyName />
+                                    <AccountNo />
+                                    <LoanAmount>356418.03</LoanAmount>
+                                    <Deposit>3520.00</Deposit>
+                                    <MonthlyInstallment>11485.93</MonthlyInstallment>
+                                    <StartDate>2021-09-28</StartDate>
+                                    <EndDate>2027-09-28</EndDate>
+                                    <Residual>0</Residual>
+                                    <InterestRate>0</InterestRate>
+                                    <Term>0</Term>
+                                </HPDetails>
+                                <TaxiAssociationCode>000475</TaxiAssociationCode>
+                                <Region>GT</Region>
+                                <DepositAmnt>3520.00</DepositAmnt>
+                                <DealerCode>099952</DealerCode>
+                                <ChannelCode>1</ChannelCode>
+                            </Vehicle>
+                        </Vehicles>
+                    </Policy>
+                </Policies>
+            </PolicyData>
+            <UserData>
+                <PerformedBy>Tial Administrator</PerformedBy>
+                <QuoteAuthorisingEntity>BrokerageStaffMember</QuoteAuthorisingEntity>
+            </UserData>
+        </Data>
+        <TraceNumber id="11286">TPQ-0002C16</TraceNumber>
+    </message>
+</Operation>

@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xds="http://www.web.xds.co.za/XDSConnectWS">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <xds:Login>
+         <!--Optional:-->
+         <xds:strUser>sataxi</xds:strUser>
+         <!--Optional:-->
+         <xds:strPwd>0LZ4Bd6g</xds:strPwd>
+      </xds:Login>
+   </soapenv:Body>
+</soapenv:Envelope>

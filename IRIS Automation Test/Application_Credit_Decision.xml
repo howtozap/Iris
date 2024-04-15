@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="Application_Credit_Decision_suite">
+
+<test name="IRIS Stages">
+	 <classes>
+	 <class name="Tests.ApplicationStage"/> 
+	  <class name="Tests.CreditDecisionStage"/>
+	 </classes>
+   </test>
+	<listeners>
+		<listener class-name="io.qameta.allure.testng.AllureTestNg" />
+	</listeners>
+</suite>

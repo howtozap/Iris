@@ -1,0 +1,1 @@
+{"uuid":"0bb28c70-2d39-4fb3-b7c2-90c13b573f0d","name":"Application_Credit_Decision_suite","children":["8128d864-1793-4643-9623-5fe4edc2528a"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707463467251,"stop":1707463467273}],"afters":[],"start":1707463467232,"stop":1707464557130}

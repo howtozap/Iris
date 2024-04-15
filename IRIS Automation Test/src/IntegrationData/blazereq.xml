@@ -1,0 +1,193 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:rma="http://fico.com/blaze/advisor/rma/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <rma:processWithDecisionFlow>
+      <!--Optional:-->
+      <arg0>
+      
+      <request>
+    <requestId>0</requestId>
+    <requestSource />
+    <requestTimestamp>2021-12-09</requestTimestamp>
+    <effectiveTimestamp>2021-12-09</effectiveTimestamp>
+    <information>
+      <timestamp />
+      <version />
+      <message />
+      <executionTime />
+      <decisionTrace />
+    </information>
+    <decisionSettings>
+      <isDebuggingEnabled>false</isDebuggingEnabled>
+      <isRequestSuppressed>true</isRequestSuppressed>
+      <isExecTimeEnabled>true</isExecTimeEnabled>
+    </decisionSettings>
+    <decisionPhase />
+    <inputData>
+      <applicationId>1</applicationId>
+      <dealerChannel>
+        <dealerChannelId>3</dealerChannelId>
+        <dealerChannelName>NON AFFILIATED</dealerChannelName>
+        <dealerCode>500148</dealerCode>
+        <dealerName>GOMO TEST DEALERSHIP PREOWNED</dealerName>
+        <dealerDicGroup />
+        <dealerGroup />
+      </dealerChannel>
+      <overrideData />
+      <applicant>
+        <applicantId>1</applicantId>
+        <applicantIdentityNr>5707207142089</applicantIdentityNr>
+        <dateOfBirth>1957-07-20</dateOfBirth>
+        <applicantInformation>
+          <numberOfVehiclesFinancedSAT>0</numberOfVehiclesFinancedSAT>
+          <monthsOnBook>0</monthsOnBook>
+          <minWaitingPeriodInMonths>0</minWaitingPeriodInMonths>
+          <maxWaitingPeriodInMonths>0</maxWaitingPeriodInMonths>
+          <rampupDepositIncrease>0</rampupDepositIncrease>
+          <existingClient>0</existingClient>
+        </applicantInformation>
+        <hive>
+          <acquireAccountCount>0</acquireAccountCount>
+          <onBookLessSixMonths>0</onBookLessSixMonths>
+          <safpsCategory />
+          <safpsCode />
+          <totalExposure>0</totalExposure>
+          <arrearsMoreThan1MonthPerVehicle>0</arrearsMoreThan1MonthPerVehicle>
+        </hive>
+        <exclusionData>
+          <isTelephoneBlacklisted>false</isTelephoneBlacklisted>
+          <isVehicleListed>true</isVehicleListed>
+          <isAddressBlacklisted>false</isAddressBlacklisted>
+          <isDealerCodeBlacklisted>false</isDealerCodeBlacklisted>
+          <isDealerNameBlacklisted>false</isDealerNameBlacklisted>
+          <isChasisNumberBlacklisted>false</isChasisNumberBlacklisted>
+          <isIDNumberBlacklisted>false</isIDNumberBlacklisted>
+          <isTelephoneDuplicateForDifferentID>true</isTelephoneDuplicateForDifferentID>
+        </exclusionData>
+        <bureau>
+          <cst_Sequestration>0</cst_Sequestration>
+          <cst_DebtReviewRequested>0</cst_DebtReviewRequested>
+          <cst_DebtReviewGranted>0</cst_DebtReviewGranted>
+          <cst_Deceased>0</cst_Deceased>
+          <cst_HomeAffairsRSAIDVerf>0</cst_HomeAffairsRSAIDVerf>
+          <cst_RSAIDCDVCheck>1</cst_RSAIDCDVCheck>
+          <idMatchCode>NA</idMatchCode>
+          <idMatchDescription>NA</idMatchDescription>
+          <homeAffairsStatus>NA</homeAffairsStatus>
+          <all_NumJudg5Years>0</all_NumJudg5Years>
+          <all_NumAdvsJWIL1Year>0</all_NumAdvsJWIL1Year>
+          <all_ValAdvsJWIL1Year>0</all_ValAdvsJWIL1Year>
+          <all_ValJudg5Years>0</all_ValJudg5Years>
+          <isSATaxiThinFileFlag>true</isSATaxiThinFileFlag>
+          <bureauSAFPSCategory />
+          <all_Notices5Years>0</all_Notices5Years>
+          <cst_Dispute>0</cst_Dispute>
+          <all_MaxOrgBalLimEver>0</all_MaxOrgBalLimEver>
+          <uns_MaxDelq180DaysGE24M>!</uns_MaxDelq180DaysGE24M>
+          <all_NumTrades2Years>-9</all_NumTrades2Years>
+          <sec_TimeMR1pDelq>-9</sec_TimeMR1pDelq>
+          <rcg_NumPerfectTrades2Years>-9</rcg_NumPerfectTrades2Years>
+          <uns_PercPayments180Days>-9</uns_PercPayments180Days>
+          <all_PercTradesUtilisedGT95MR60>-9</all_PercTradesUtilisedGT95MR60>
+          <aul_MaxDelqEverOpen>!</aul_MaxDelqEverOpen>
+          <unn_RatioOrgBalLim180Days>-9</unn_RatioOrgBalLim180Days>
+          <all_TimeOldestTrade>0</all_TimeOldestTrade>
+          <ail_TimeOldestTrade>-9</ail_TimeOldestTrade>
+          <consumerFinanceScore>569</consumerFinanceScore>
+          <morBond_MonInstall>0</morBond_MonInstall>
+          <expRent>0</expRent>
+          <expPropertyRatesAndLevies>0</expPropertyRatesAndLevies>
+          <motorFinan_MonInstall>0</motorFinan_MonInstall>
+          <persLoan_MonInstall>0</persLoan_MonInstall>
+          <expCreditCardRep>0</expCreditCardRep>
+          <expFurniture>0</expFurniture>
+          <expClothing>0</expClothing>
+          <expOverDraft>0</expOverDraft>
+          <insurancePremiums>0</insurancePremiums>
+          <cellPhoneContract>0</cellPhoneContract>
+          <expTransportCosts>0</expTransportCosts>
+          <expFoodEntertainment>0</expFoodEntertainment>
+          <expEducationCosts>0</expEducationCosts>
+          <expMaintanance>0</expMaintanance>
+          <homeMaintenance>0</homeMaintenance>
+          <othrMonExpense>0</othrMonExpense>
+          <facilityValue>0</facilityValue>
+          <currentBalance>0</currentBalance>
+          <currentInstallment>0</currentInstallment>
+          <saTaxi_ArrearsMoreThan1Month>0</saTaxi_ArrearsMoreThan1Month>
+        </bureau>
+        <dealerData>
+          <sourceofIncome>SALARY</sourceofIncome>
+          <grossMonthlyIncome>35000</grossMonthlyIncome>
+          <monthlyCommission>0</monthlyCommission>
+          <carAllowance>0</carAllowance>
+          <netMonthlyIncome>25000</netMonthlyIncome>
+          <otherIncome>10000</otherIncome>
+          <morBond_MonInstall>0</morBond_MonInstall>
+          <expRent>5000</expRent>
+          <expPropertyRatesAndLevies>350</expPropertyRatesAndLevies>
+          <motorFinan_MonInstall>0</motorFinan_MonInstall>
+          <persLoan_MonInstall>0</persLoan_MonInstall>
+          <expCreditCardRep>0</expCreditCardRep>
+          <expFurniture>0</expFurniture>
+          <expClothing>1000</expClothing>
+          <expOverDraft>0</expOverDraft>
+          <insurancePremiums>800</insurancePremiums>
+          <cellPhoneContract>350</cellPhoneContract>
+          <expTransportCosts>1500</expTransportCosts>
+          <expFoodEntertainment>1800</expFoodEntertainment>
+          <expEducationCosts>0</expEducationCosts>
+          <expMaintanance>0</expMaintanance>
+          <homeMaintenance>970</homeMaintenance>
+          <othrMonExpense>0</othrMonExpense>
+        </dealerData>
+        <weBuyCars>
+          <retailValuePrice>350000</retailValuePrice>
+          <gbbPrice>0</gbbPrice>
+        </weBuyCars>
+        <consumerInsurance>
+          <insurancePremium>0</insurancePremium>
+          <insuranceProRata>0</insuranceProRata>
+          <isCreditLife>true</isCreditLife>
+          <cl_MonthlyPremium>0</cl_MonthlyPremium>
+          <cl_ProRata>0</cl_ProRata>
+          <isInsuranceSelected>false</isInsuranceSelected>
+        </consumerInsurance>
+        <consumerVehicle>
+          <vehiclePrice>360000</vehiclePrice>
+          <vehicleMake>V40 T4 EXCEL POWERSHIFT</vehicleMake>
+          <vehicleType>PREOWNED</vehicleType>
+          <vehicleModel>V40 T4 EXCEL POWERSHIFT</vehicleModel>
+          <manufactureYear>2015</manufactureYear>
+          <mnMCode>65028210</mnMCode>
+          <manufacturer>VOLVO</manufacturer>
+          <vehicleUse>2</vehicleUse>
+          <fuelType>DIESEL</fuelType>
+          <isInitiationFeeFinanced>true</isInitiationFeeFinanced>
+          <isFinancetrackUnit>false</isFinancetrackUnit>
+          <discount>0</discount>
+          <totalTradeIn>0</totalTradeIn>
+          <requestedRate>0.05</requestedRate>
+          <requestedTerm>72</requestedTerm>
+          <residualPercentage>0</residualPercentage>
+          <requestedDepositAmount>0</requestedDepositAmount>
+          <vehicleClassification>0</vehicleClassification>
+          <vatableExtras>14129</vatableExtras>
+          <nonVatableExtras>1850</nonVatableExtras>
+          <firstInstalmentDate>2022-01-25</firstInstalmentDate>
+          <initiationFees>1207.5</initiationFees>
+          <monthlyAdminFee>69</monthlyAdminFee>
+          <consumerBuyBack>NO</consumerBuyBack>
+        </consumerVehicle>
+      </applicant>
+      <isDuplicateApplication>false</isDuplicateApplication>
+      <isMultiVehicleApplication>false</isMultiVehicleApplication>
+      <applicationStatus>NEW</applicationStatus>
+      <contractGenerated>0</contractGenerated>
+    </inputData>
+  </request>
+      
+      </arg0>
+    </rma:processWithDecisionFlow>
+  </soapenv:Body>
+</soapenv:Envelope>

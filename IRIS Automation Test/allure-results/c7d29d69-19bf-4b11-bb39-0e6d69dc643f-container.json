@@ -1,0 +1,1 @@
+{"uuid":"c7d29d69-19bf-4b11-bb39-0e6d69dc643f","name":"Tests.ApplicationStage","children":["d5f6d94a-57b2-4173-8970-507631f752d9"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707456650359,"stop":1707456677305}],"afters":[],"start":1707456650344,"stop":1707457300350}

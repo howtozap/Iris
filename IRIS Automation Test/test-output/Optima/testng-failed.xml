@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Optima]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="OptimaStages(failed)">
+    <classes>
+      <class name="Tests.SecondChecker">
+        <methods>
+          <include name="secondCheckerChecking"/>
+          <include name="closeBrowser"/>
+          <include name="login"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Tests.SecondChecker -->
+      <class name="Tests.FirstChecker">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="firstCheckerChecking"/>
+          <include name="login"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Tests.FirstChecker -->
+      <class name="Tests.InvoiceScreen">
+        <methods>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="invoiceScreen"/>
+        </methods>
+      </class> <!-- Tests.InvoiceScreen -->
+    </classes>
+  </test> <!-- OptimaStages(failed) -->
+</suite> <!-- Failed suite [Optima] -->

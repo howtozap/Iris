@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="Validation_verification_suite">
+
+<test name="Optima Stage">
+	 <classes>
+	        <class name="Tests.DocumentValidationStage"/>
+	    <class name="Tests.VerificationStage"/> 
+	 </classes>
+   </test>
+</suite>

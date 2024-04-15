@@ -1,0 +1,1 @@
+{"uuid":"cf4df34c-27f4-4381-88ee-505f4af91151","name":"IRIS Automation Test","children":["d32bfd69-46fd-450a-8e48-12bd9b8fbeb1"],"befores":[{"name":"setupClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707161715868,"stop":1707161715868}],"afters":[],"start":1707161715866,"stop":1707162369288}
